@@ -11,7 +11,7 @@
 
 :root{
     --background: url('https://c4.wallpaperflare.com/wallpaper/4/375/730/hotline-miami-owl-red-pixel-art-hd-wallpaper-preview.jpg');
-    --activetext-colour: (99,236,218,0.8);
+    --activetext-colour: rgba(99,236,218,0.8);
 
     --primary1-colour: red;
     --primary2-colour: rgba(211,16,81,0.5);

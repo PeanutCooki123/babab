@@ -11,10 +11,10 @@
 
 :root{
     --background: url('https://c4.wallpaperflare.com/wallpaper/4/375/730/hotline-miami-owl-red-pixel-art-hd-wallpaper-preview.jpg');
-    --activetext-colour: white;
+    --activetext-colour: rgba(99, 236, 218);
 
     --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
+    --primary2-colour: rgba(211,16,81,0.5);
     --primary3-colour: rgba(100,0,0,0.6);
 
     --secondary1-colour: rgba(50,50,50,0.3);

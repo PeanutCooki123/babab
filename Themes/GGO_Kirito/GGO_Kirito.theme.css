@@ -18,8 +18,8 @@
     --primary2-colour: rgba(211,16,81,0.5);
     --primary3-colour: rgba(255,19,95,0.6);
 
-    --secondary1-colour: rgba(50,50,50,0.5);
-    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary1-colour: rgba(50,50,50,0.6);
+    --secondary2-colour: rgba(100,100,100,0.3);
     --secondary3-colour: rgba(0,0,0,0.5);
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
